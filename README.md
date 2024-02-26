@@ -6,6 +6,8 @@ This repo contains the code to perform a simple image classification task using 
 [UPDATE]
 Now, you can simply run `organize_flowers17.py` script to download and organize training data for this project. Also, I have updated the code to support only Python 3+ as Python 2+ faces end of life.
 
+
+
 ## Summary of the project
 * Global Feature Descriptors such as Color Histograms, Haralick Textures and Hu Moments are used on University of Oxford's FLOWER17 dataset.
 * Classifiers used are Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Random Forests, Gaussian Naive Bayes and Support Vector Machine.
